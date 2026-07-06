@@ -1,4 +1,4 @@
-# Project 5: Smart Image Analysis Application
+# Smart Image Analysis Application
 
 **Platform:** AWS Academy Learner Lab (us-east-1)
 **Author:** Ramsha
